@@ -1,4 +1,4 @@
-__author__ = 'JR'
+__author__ = 'grahamhub'
 
 import pygame
 import random
